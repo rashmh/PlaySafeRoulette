@@ -1,6 +1,6 @@
-public class Bet<object> {
+public class Bet {
 
-    object value;
+    Object value;
     float amount;
 
     public Bet(String[] args) throws IllegalAccessException {
